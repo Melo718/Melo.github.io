@@ -18,7 +18,7 @@ body {
   color: #333;
 
   /* Visual */
-  background: #efeee7;
+  background: #f0cd6f3f;
 }
 
 .info {
@@ -41,11 +41,11 @@ h1 {
   font-size: 28px;
 
   /* Typography */
-  color: #eee;
+  color: rgb(15, 15, 15);
   text-align: center;
 
   /* Visual */
-  background: #333;
+  background: rgb(236, 66, 66);
 }
 
 h2 {
@@ -53,7 +53,7 @@ h2 {
 }
 
 a {
-  color: #d21034;
+  color: #cc1414;
 }
 
 .container {
