@@ -10,7 +10,7 @@ body {
 
   /* Positioning */
   margin: 0;
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family:monospace;
 
   /* Typography */
   font-size: 18px;
@@ -20,6 +20,12 @@ body {
   /* Visual */
   background: #efeee7;
 }
+
+.info {
+  font-family: monospace;
+  float: left;
+}
+
 
 header {
   background: #d21034;
