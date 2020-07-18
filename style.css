@@ -7,6 +7,7 @@ Experiment with deleting lines of code from the CSS to see how it affects the we
 body {
   /* Box-model */
   padding: 0;
+ 
 
   /* Positioning */
   margin: 0;
@@ -18,17 +19,12 @@ body {
   color: #333;
 
   /* Visual */
-  background: #f0cd6f3f;
+  background: #9b8d8d;
 }
 
 .info {
   font-family: monospace;
   float: left;
-}
-
-
-header {
-  background: #d21034;
 }
 
 h1 {
@@ -45,7 +41,7 @@ h1 {
   text-align: center;
 
   /* Visual */
-  background: rgb(236, 66, 66);
+  background: rgb(105, 101, 101);
 }
 
 h2 {
